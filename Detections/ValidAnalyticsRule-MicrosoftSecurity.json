@@ -14,7 +14,7 @@
             "kind": "MicrosoftSecurityIncidentCreation",
             "apiVersion": "2021-03-01-preview",
             "properties": {
-                "displayName": "Valid Analytics Rule - Microsoft Security",
+                "displayName": "Valid Analytics Rule - Microsoft Security 123",
                 "description": "Create incidents based on all alerts generated in Microsoft 365 Insider Risk Management",
                 "enabled": true,
                 "productFilter": "Microsoft 365 Insider Risk Management",
