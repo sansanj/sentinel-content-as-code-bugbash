@@ -1,4 +1,0 @@
-FileName, CommitSha
-Detections\ValidAnalyticRule1.json,a4612b141426a463a74e622cd089a3a6006647dc
-Detections\ValidAnalyticsRule-MicrosoftSecurity.json,b358cb108137c5d85eb0d4aea0ff96db22bf2400
-sentinel-deployment.config,24235ed7b21800612952131ce48270ce40b2005a
