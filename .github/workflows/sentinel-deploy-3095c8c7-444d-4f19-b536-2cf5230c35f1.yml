@@ -23,6 +23,7 @@ jobs:
     env:
       resourceGroupName: 'cac-test-rg'
       workspaceName: 'cac-test-la'
+      workspaceId: '87de47f7-c507-42ce-95ce-7af782135e5b'
       directory: '${{ github.workspace }}'
       cloudEnv: 'AzureCloud'
       creds: ${{ secrets.AZURE_SENTINEL_CREDENTIALS_3095c8c7444d4f19b5362cf5230c35f1 }}
